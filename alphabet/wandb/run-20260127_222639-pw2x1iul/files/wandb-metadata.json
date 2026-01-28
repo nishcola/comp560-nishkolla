@@ -1,0 +1,43 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.13.2",
+  "startedAt":  "2026-01-28T03:26:39.321029Z",
+  "args":  [
+    "config/basic.py"
+  ],
+  "program":  "C:\\Users\\Nish\\Documents\\comp560-nanoGPT\\train.py",
+  "codePath":  "..\\comp560-nanoGPT\\train.py",
+  "codePathLocal":  "..\\..\\comp560-nanoGPT\\train.py",
+  "git":  {
+    "remote":  "https://github.com/nishcola/comp560-nishkolla.git",
+    "commit":  "279c70a210dbac9a435f6c6aaf288de695a79aa5"
+  },
+  "email":  "kollanishanth01@gmail.com",
+  "root":  "C:\\Users\\Nish\\Documents\\comp560-nishkolla\\alphabet",
+  "host":  "DESKTOP-N8576GD",
+  "executable":  "C:\\Python313\\python.exe",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "gpu":  "NVIDIA GeForce GTX 1650 SUPER",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "874963267584",
+      "used":  "651721011200"
+    }
+  },
+  "memory":  {
+    "total":  "34147999744"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce GTX 1650 SUPER",
+      "memoryTotal":  "4294967296",
+      "cudaCores":  1280,
+      "architecture":  "Turing",
+      "uuid":  "GPU-43203ced-0961-3d63-e815-a90e25372636"
+    }
+  ],
+  "cudaVersion":  "13.0",
+  "writerId":  "y2svkocew9db7f919h3y3hg734mal91j"
+}

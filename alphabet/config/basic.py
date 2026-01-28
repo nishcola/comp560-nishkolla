@@ -9,9 +9,9 @@ log_interval = 2
 # only save when val improves
 always_save_checkpoint = False
 
-wandb_log = False # override via command line if you like
-wandb_project = None # 'jmac-insert-spaces'
-wandb_run_name = None # 'insert-spaces'
+wandb_log = True # override via command line if you like
+wandb_project = 'nish-alphabet' # 'jmac-insert-spaces'
+wandb_run_name = 'alphabet' # 'insert-spaces'
 
 dataset = 'basic'
 gradient_accumulation_steps = 1
